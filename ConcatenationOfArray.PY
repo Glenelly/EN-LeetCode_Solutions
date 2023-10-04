@@ -19,4 +19,4 @@ class Solution2:
             #Join the values ​​of the two arrays
             concatenation = nums + ans 
             
-        return(concatenation)
+        return(concatenation)  
